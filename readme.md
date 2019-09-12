@@ -8,4 +8,4 @@ The project consisted of three components:
 ## Files
  * **bulletin_board.pdf:** Design schematics for the bulletin board, created in **Autodesk Inventor**
  * **bulletin_board_schematics.idw:** Autodesk Inventor .idw file, used to edit bulletin board schematics
- * **project_report.pdf**: The project report I submitted to the BSA national council (must be opened in Adobe Reader)
+ * **project_report.pdf**: The project report I submitted to the BSA national council (too big, will upload later; must be opened in Adobe Reader)
