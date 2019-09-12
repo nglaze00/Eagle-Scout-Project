@@ -7,5 +7,5 @@ The project consisted of three components:
 * Repairing windscreens around the perimeter of the courts (many zipties had broken, causing them to sag heavil
 ## Files
  * **bulletin_board.pdf:** Design schematics for the bulletin board, created in **Autodesk Inventor**
- * **wooden_fixture.idw:** Autodesk Inventor .idw file, used to edit bulletin board schematics
+ * **bulletin_board_schematics.idw:** Autodesk Inventor .idw file, used to edit bulletin board schematics
  * **project_report.pdf**: The project report I submitted to the BSA national council (must be opened in Adobe Reader)
