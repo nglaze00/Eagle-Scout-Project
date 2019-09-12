@@ -1,5 +1,5 @@
 # Eagle Scout Project
-In this repository are a few files from my project, which I planned and carried out in the summer of 2017. 
+In this repository are a few files from my project, which I planned and carried out in the summer of 2017. I raised **$500** to cover all costs of the project, which was carried out by a team of **17 volunteers** over three days.
 ## Description
 The project consisted of three components:
 * Designing and installing a bulletin board on the courts (used by coaches to post tournament info / brackets, practice schedules, etc.)
